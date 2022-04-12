@@ -2,4 +2,5 @@ print("Resep krabby patty")
 print("------------------")
 print("1. Bawang")
 print("2. Ketimun")
-
+print("3. Roti")
+print("4. Daging")
